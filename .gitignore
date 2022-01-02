@@ -1,0 +1,4 @@
+*.exp
+*.jar
+/bin/
+testdata.xls
