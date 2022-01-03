@@ -4,4 +4,7 @@ changed file to fix some changes
 changing - some changes to fix bug1
 
 changing some changes to fix bug1.
+c
+
+now changes done by teammate
 
