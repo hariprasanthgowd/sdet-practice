@@ -1,1 +1,3 @@
 hello persistent
+
+some changes was done by teammate to check pull option on remote master
