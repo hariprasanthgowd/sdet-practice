@@ -2,4 +2,8 @@ hello persistent
 
 some changes was done by teammate to check pull option on remote master
 
+
 some changes was done by teammate to check fetch option on remote master
+
+some more done in local master
+
