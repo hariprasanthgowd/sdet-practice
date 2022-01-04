@@ -10,9 +10,11 @@ now changes done by teammate
 
 wi3 changes
 
-<<<<<<< HEAD
 changes done by teammate while doing bug5
-=======
+
 checking for bug5
->>>>>>> ebd6b94 (bug5:changes to check for bug5)
+
+bug5:changes to check for bug5
+
+now trying to push github
 
